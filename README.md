@@ -26,7 +26,7 @@
     &#8287;
     <a href="https://bit.ly/CMSP-Plataformas-Hacks"><img width="15%" src="https://i.imgur.com/tvs51ef.png"/></a>
     <br><br>
-    <a href="https://pixgg.com/DarkMode"><img width="15%" src="https://i.imgur.com/XVIfgZk.png"/></a>
+    <a href="https://pixgg.com/doka"><img width="15%" src="https://i.imgur.com/XVIfgZk.png"/></a>
 </p>
 
 ---
